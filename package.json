@@ -1,0 +1,19 @@
+{
+  "name": "brocallit-js",
+  "version": "0.1.0",
+  "description": "BroCallIt js is the js version of the infamous BroCallIt package !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LionelSts/brocallit-js.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/LionelSts/brocallit-js/issues"
+  },
+  "homepage": "https://github.com/LionelSts/brocallit-js#readme"
+}
