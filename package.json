@@ -4,7 +4,7 @@
   "description": "BroCallIt js is the js version of the infamous BroCallIt package !",
   "main": "index.js",
   "scripts": {
-    "test": "Correctly installed"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
