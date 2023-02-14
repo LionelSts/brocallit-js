@@ -1,6 +1,6 @@
 {
   "name": "brocallit-js",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "BroCallIt js is the js version of the infamous BroCallIt package !",
   "main": "index.js",
   "scripts": {
