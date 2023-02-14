@@ -6,4 +6,8 @@ let divideNumbers = (number1,number2) => {
     return number1 / number2
 }
 
-module.exports = addNumbers,divideNumbers
+let zero = () => {
+    return 0
+}
+
+module.exports = addNumbers,divideNumbers,zero
