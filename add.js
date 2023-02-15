@@ -7,7 +7,7 @@ let divideNumbers = (number1,number2) => {
 }
 
 let zero = () => {
-    return 0
+    return 9
 }
 
 module.exports = addNumbers,divideNumbers,zero
